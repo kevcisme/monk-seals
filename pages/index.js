@@ -11,9 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to the Hawaiian Monk Seal Directory!" />
+        <Header title="Welcome to the Hawaiian Monk Seal Directory" />
+        <h1>🦭 </h1>
+
         <p className="description">
-          Coming soon... a browsable and searchable seal directory!
+          Coming soon...
+          a browsable and searchable seal directory!
         </p>
       </main>
 
